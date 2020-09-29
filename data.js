@@ -1,4 +1,4 @@
-export let packs = [
+var packs = [
 	{
 		"item": {
 			"id": "55837",
