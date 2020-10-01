@@ -320,6 +320,83 @@ var packs = [
 	},
 	{
 		"item": {
+			"id": "55062",
+			"name": "Flawless Tooth Bracelet",
+			"icon": "https://bddatabase.net/items/new_icon/03_etc/10_free_tradeitem/00055062.png",
+			"price": 1239900,
+			"weight": 25,
+			"category": "Hunting",
+			"defaultRoute": ""
+		}
+	},
+	{
+		"item": {
+			"id": "55059",
+			"name": "Exquisite Horn Decoration",
+			"icon": "https://bddatabase.net/items/new_icon/03_etc/10_free_tradeitem/00055059.png",
+			"price": 1239900,
+			"weight": 25,
+			"category": "Hunting",
+			"defaultRoute": ""
+		}
+	},
+	{
+		"item": {
+			"id": "55077",
+			"name": "Cozy Muffler",
+			"icon": "https://bddatabase.net/items/new_icon/03_etc/10_free_tradeitem/00055077.png",
+			"price": 1239900,
+			"weight": 25,
+			"category": "Hunting",
+			"defaultRoute": ""
+		}
+	},
+	{
+		"item": {
+			"id": "55074",
+			"name": "Full Ferri Feather Duster",
+			"icon": "https://bddatabase.net/items/new_icon/03_etc/10_free_tradeitem/00055074.png",
+			"price": 1239900,
+			"weight": 25,
+			"category": "Hunting",
+			"defaultRoute": ""
+		}
+	},
+	{
+		"item": {
+			"id": "55071",
+			"name": "Shining Ivory Flute",
+			"icon": "https://bddatabase.net/items/new_icon/03_etc/10_free_tradeitem/00055071.png",
+			"price": 1239900,
+			"weight": 25,
+			"category": "Hunting",
+			"defaultRoute": ""
+		}
+	},
+	{
+		"item": {
+			"id": "55065",
+			"name": "Soft Leather Bag",
+			"icon": "https://bddatabase.net/items/new_icon/03_etc/10_free_tradeitem/00055065.png",
+			"price": 1239900,
+			"weight": 25,
+			"category": "Hunting",
+			"defaultRoute": ""
+		}
+	},
+	{
+		"item": {
+			"id": "55068",
+			"name": "Stylish Bird Beak Mask",
+			"icon": "https://bddatabase.net/items/new_icon/03_etc/10_free_tradeitem/00055068.png",
+			"price": 1239900,
+			"weight": 25,
+			"category": "Hunting",
+			"defaultRoute": ""
+		}
+	},
+	{
+		"item": {
 			"id": "55857",
 			"name": "Black Crystal Amulet of Authority",
 			"icon": "https://bddatabase.net/items/new_icon/03_etc/07_productmaterial/00055857.png",
@@ -7752,6 +7829,5 @@ var packs = [
 			"weight": 280,
 			"category": "Misc",
 			"defaultRoute": ""
-		}
 	}
 ];
