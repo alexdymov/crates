@@ -7829,5 +7829,6 @@ var packs = [
 			"weight": 280,
 			"category": "Misc",
 			"defaultRoute": ""
+		}
 	}
 ];
